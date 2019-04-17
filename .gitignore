@@ -1,0 +1,14 @@
+# IDE
+.vscode
+.idea
+
+# OS X files
+.DS_Store
+.swp
+
+# Node.js files
+node_modules
+
+# Python cache
+__pycache__
+.ipynb_checkpoints
